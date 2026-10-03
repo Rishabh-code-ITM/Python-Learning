@@ -1,0 +1,353 @@
+# 🐍 Python — Learning & Practice
+
+Welcome to my **Python Learning & Practice** repository.
+
+This repository contains the Python programs I write while learning and improving my **programming fundamentals, logical thinking, and problem-solving skills**.
+
+The goal is to learn Python step by step, understand each concept properly, practice by writing programs, and build a strong foundation for **Data Science, Machine Learning, and Generative AI**.
+
+## 📚 Topics Covered
+
+### 01. Basics
+
+* Hello World
+* Comments
+* Print Statements
+* Escape Sequences
+* Basic Python Program Structure
+
+### 02. Variables & Data Types
+
+* Variables
+* Numbers
+* Strings
+* Boolean
+* Type Conversion
+* Type Checking
+* Constants
+
+### 03. Input & Output
+
+* User Input
+* Multiple Inputs
+* Formatted Output
+
+### 04. Operators
+
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+* Assignment Operators
+* Membership Operators
+* Identity Operators
+* Operator Precedence
+
+### 05. Conditional Statements
+
+* `if`
+* `if-else`
+* `elif`
+* Nested `if`
+* Decision-Making Programs
+
+### 06. Loops
+
+* `for`
+* `while`
+* Nested Loops
+* Loop-Based Programs
+
+### 07. Loop Control
+
+* `break`
+* `continue`
+* `pass`
+
+### 08. Strings
+
+* String Basics
+* Indexing
+* Slicing
+* String Methods
+* String Programs
+
+### 09. Lists
+
+* List Basics
+* Indexing and Slicing
+* List Methods
+* Nested Lists
+* List Programs
+
+### 10. Tuples, Sets & Dictionaries
+
+* Tuples
+* Sets
+* Dictionaries
+* Collection-Based Programs
+
+### 11. Functions
+
+* Basic Functions
+* Parameters
+* Return Values
+* Default Arguments
+* Keyword Arguments
+* Lambda Functions
+
+### 12. Recursion
+
+* Recursion Basics
+* Factorial
+* Fibonacci
+* Recursive Problem Solving
+
+### 13. Modules & Packages
+
+* Importing Modules
+* `math`
+* `random`
+* `datetime`
+* Creating and Using Modules
+
+### 14. File Handling
+
+* Reading Files
+* Writing Files
+* Appending Files
+* Working with Text Files
+
+### 15. Exception Handling
+
+* `try`
+* `except`
+* Multiple Exceptions
+* `finally`
+* `raise`
+
+### 16. Object-Oriented Programming
+
+* Classes & Objects
+* Constructors
+* Methods
+* Encapsulation
+* Inheritance
+* Polymorphism
+
+### 17. Advanced Python
+
+* List Comprehension
+* Dictionary Comprehension
+* Iterators
+* Generators
+* Decorators
+
+### 18. Python Libraries
+
+* NumPy
+* Pandas
+* Matplotlib
+
+### 19. Problem Solving
+
+* Number Problems
+* String Problems
+* List Problems
+* Logic Building
+* Basic Problem-Solving Practice
+
+## 📁 Repository Structure
+
+```text
+Python-Learning
+│
+├── 01-Basics
+│   ├── Hello_World.py
+│   ├── Comments.py
+│   ├── Print_Statements.py
+│   ├── Escape_Sequences.py
+│   └── Basic_Program.py
+│
+├── 02-Variables-Data-Types
+│   ├── Variables.py
+│   ├── Data_Types.py
+│   ├── Type_Conversion.py
+│   ├── Type_Checking.py
+│   └── Constants.py
+│
+├── 03-Input-Output
+│   ├── User_Input.py
+│   ├── Multiple_Input.py
+│   └── Formatted_Output.py
+│
+├── 04-Operators
+│   ├── Arithmetic_Operators.py
+│   ├── Comparison_Operators.py
+│   ├── Logical_Operators.py
+│   ├── Assignment_Operators.py
+│   ├── Membership_Operators.py
+│   └── Identity_Operators.py
+│
+├── 05-Conditional-Statements
+│   ├── If.py
+│   ├── If_Else.py
+│   ├── Elif.py
+│   ├── Nested_If.py
+│   └── Conditional_Programs.py
+│
+├── 06-Loops
+│   ├── For_Loop.py
+│   ├── While_Loop.py
+│   ├── Nested_Loop.py
+│   └── Loop_Programs.py
+│
+├── 07-Loop-Control
+│   ├── Break.py
+│   ├── Continue.py
+│   └── Pass.py
+│
+├── 08-Strings
+│   ├── String_Basics.py
+│   ├── String_Indexing.py
+│   ├── String_Slicing.py
+│   ├── String_Methods.py
+│   └── String_Programs.py
+│
+├── 09-Lists
+│   ├── List_Basics.py
+│   ├── List_Methods.py
+│   ├── List_Slicing.py
+│   ├── Nested_List.py
+│   └── List_Programs.py
+│
+├── 10-Tuples-Sets-Dictionaries
+│   ├── Tuples.py
+│   ├── Sets.py
+│   ├── Dictionaries.py
+│   └── Collection_Programs.py
+│
+├── 11-Functions
+│   ├── Basic_Function.py
+│   ├── Function_Parameters.py
+│   ├── Return_Value.py
+│   ├── Default_Arguments.py
+│   ├── Keyword_Arguments.py
+│   └── Lambda_Function.py
+│
+├── 12-Recursion
+│   ├── Recursion_Basics.py
+│   ├── Factorial.py
+│   └── Fibonacci.py
+│
+├── 13-Modules-Packages
+│   ├── Import_Module.py
+│   ├── Math_Module.py
+│   ├── Random_Module.py
+│   └── Datetime_Module.py
+│
+├── 14-File-Handling
+│   ├── Read_File.py
+│   ├── Write_File.py
+│   ├── Append_File.py
+│   └── File_Handling.py
+│
+├── 15-Exception-Handling
+│   ├── Try_Except.py
+│   ├── Multiple_Exceptions.py
+│   ├── Finally.py
+│   └── Raise_Exception.py
+│
+├── 16-OOP
+│   ├── Class_And_Object.py
+│   ├── Constructor.py
+│   ├── Instance_Method.py
+│   ├── Inheritance.py
+│   ├── Encapsulation.py
+│   └── Polymorphism.py
+│
+├── 17-Python-Advanced
+│   ├── List_Comprehension.py
+│   ├── Dictionary_Comprehension.py
+│   ├── Iterators.py
+│   ├── Generators.py
+│   └── Decorators.py
+│
+├── 18-Libraries
+│   ├── NumPy
+│   ├── Pandas
+│   └── Matplotlib
+│
+├── 19-Problem-Solving
+│   ├── Number_Programs
+│   ├── String_Problems
+│   ├── List_Problems
+│   └── Logic_Problems
+│
+└── README.md
+```
+
+## 🛠️ Tools Used
+
+* **Python**
+* **VS Code**
+* **Python Interpreter**
+* **Windows**
+* **Git & GitHub**
+
+## 🔄 Learning Approach
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Write
+  ↓
+Run
+  ↓
+Practice
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Upload to GitHub
+```
+
+I focus on understanding the concepts and writing programs myself instead of simply copying code.
+
+## 📈 Progress
+
+* Basics 🔄 Learning
+* Variables & Data Types ⏳ Upcoming
+* Input & Output ⏳ Upcoming
+* Operators ⏳ Upcoming
+* Conditional Statements ⏳ Upcoming
+* Loops ⏳ Upcoming
+* Loop Control ⏳ Upcoming
+* Strings ⏳ Upcoming
+* Lists ⏳ Upcoming
+* Tuples, Sets & Dictionaries ⏳ Upcoming
+* Functions ⏳ Upcoming
+* Recursion ⏳ Upcoming
+* Modules & Packages ⏳ Upcoming
+* File Handling ⏳ Upcoming
+* Exception Handling ⏳ Upcoming
+* OOP ⏳ Upcoming
+* Advanced Python ⏳ Upcoming
+* Python Libraries ⏳ Upcoming
+* Problem Solving ⏳ Upcoming
+
+> The progress section will be updated as I learn and complete each topic.
+
+## 🎯 Goal
+
+Build a strong foundation in Python and gradually move towards:
+
+**Python → Problem Solving → NumPy & Pandas → Machine Learning → AI → Generative AI**
+
+Python projects will be maintained separately in my **Python Projects** repository.
+
+---
+
+⭐ This repository documents my Python learning journey from programming fundamentals to advanced concepts and essential libraries.
